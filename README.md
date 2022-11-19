@@ -1,4 +1,12 @@
-### Hi there 👋
+#Hi I'm Aueaoangkun Khamlek Welcome my Githud Profile
+
+😃 สวัสดีครับ ผมชื่อ นาย เอื้ออังกูร คำเหล็ก ชื่อเล่น เปอร์ 😃
+
+## Get in touch
+👉[FACEBOOK](https://www.facebook.com/P.PerKhamlek)<br>
+
+
+
 
 <!--
 **AueaoangkunKh/Aueaoangkunkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
