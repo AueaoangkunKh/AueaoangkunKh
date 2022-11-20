@@ -1,4 +1,4 @@
-# Hi I'm Aueaoangkun Khamlek Welcome my Githud Profile
+# Hi I'm Aueaoangkun Khamlek Welcome
 
 
 
