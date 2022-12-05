@@ -1,24 +1,12 @@
-# Hi I'm Aueaoangkun Khamlek Welcome
+## 👉 About me 👈
+- My Name's Aueaoangkun Khamlek
+- My NickName's Per 👏
+- I am studying at rajamangala university of technology lanna
+---
+<a href="https://www.facebook.com/P.PerKhamlek/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="100" height="100"></a>
 
-
-
-## Get in touch
-👉[FACEBOOK](https://www.facebook.com/P.PerKhamlek)<br>
-
-
-
-
-<!--
-**AueaoangkunKh/Aueaoangkunkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<center>
+<img src="https://media.tenor.com/huECru5YReQAAAAC/cat-type.gif">
+<img src="https://thumbs.gfycat.com/MelodicBlaringAlaskankleekai-size_restricted.gif" width=450>
+</center>
